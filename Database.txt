@@ -1,0 +1,14 @@
+use nbs1;
+-- CREATE TABLE employees (
+--    
+--    empno int,
+--    name varchar(20),
+--    salary int,
+--    department varchar(20)
+-- );
+
+Select * from employees;
+
+-- INSERT INTO employees VALUE (1236, "jake", 12000, "IT");
+
+-- ALTER USER 'root'@'localhost' IDENTIFIED WITH 'mysql_native_password' BY 'root'
